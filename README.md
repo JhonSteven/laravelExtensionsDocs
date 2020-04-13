@@ -9,8 +9,8 @@ Laravel Extensions Package, is a package with functions that optimize, especiall
 
 ## Documentation
 
-[Validation Rules](https://github.com/JhonSteven/laravelExtensionsDocs)
-[UpdateAndGet](https://github.com/JhonSteven/laravelExtensionsDocs)
+ - Validation Rules [ValidationRules](https://github.com/JhonSteven/laravelExtensionsDocs/blob/master/ValidationRules.md)
+ - Update and return [UpdateAndGet](https://github.com/JhonSteven/laravelExtensionsDocs/blob/master/UpdateAndGet.md)
 
 ### Developing
 
